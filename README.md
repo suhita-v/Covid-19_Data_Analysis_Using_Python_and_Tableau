@@ -14,7 +14,7 @@ This data science project is on Covid-19 data analysis using Python and Tableau.
     
 -	Data Organization: <br/> exported the processed data into an .xlx file that is to be alanalysed in Tableau.
 
--	Data Analysis with Tableau: <br/> an intereactive dashboard of worldwide map of countries and a bar graph of total recoveries vs. total deaths worldwide.
+-	Data Analysis with Tableau: <br/> an intereactive dashboard of worldwide map of countries and a timeline graph of total confirmed cases and total deaths worldwide.
 
 ### Which IDE was used for programming?
 -> Spyder 5.0.3
