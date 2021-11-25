@@ -1,4 +1,4 @@
-# Covid-19_Data_Analysis_Using_Python_and_Tableau
+# Covid-19 India_Data_Analysis_Using_Python_and_Tableau
 This data science project is on Covid-19 data analysis using Python and Tableau. Here, the data is processed using Pandas and requests libraries of Python and analyzed it using tableau.
 
 ## Steps in this project:
